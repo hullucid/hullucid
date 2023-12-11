@@ -9,6 +9,20 @@
 <details open> 
   <summary><h2> 🏆Completed Projects</h2></summary>
   <p align="left">
+
+  <a href="https://github.com/hullucid/LoanPayment" >**Loan Payment (Programming Fundamentals I)**</a>
+
+  <a href="https://github.com/hullucid/OvertimePay" >**Overtime Pay (Program Programming Fundamentals I)**</a>
+  
+  <a href="https://github.com/hullucid/FinalExamProgramProgFund2" >**Final Exam Program (Programming Fundamentals II)**</a>
+
+  <a href="https://github.com/hullucid/MP-3-SLO2" >**Major Program 3/SLO 2 (Programming Fundamentals II)**</a>
+
+  <a href="https://github.com/hullucid/DataStructures-SLO-6-7" >**Data Structures SLO 6&7 (Programming Fundamentals III)**</a>
+
+  <a href="https://github.com/hullucid/IntroToRecursionSLO-2" >**Introduction To Recusion SLO 2 (Programming Fundamentals III)**</a>
+
+
 </details>
 
 **Objectives:**
