@@ -20,7 +20,7 @@
 
   <a href="https://github.com/hullucid/DataStructures-SLO-6-7" >**Data Structures SLO 6&7 (Programming Fundamentals III)**</a>
 
-  <a href="https://github.com/hullucid/IntroToRecursionSLO-2" >**Introduction To Recusion SLO 2 (Programming Fundamentals III)**</a>
+  <a href="https://github.com/hullucid/IntroToRecursionSLO-2" >**Introduction To Recursion SLO 2 (Programming Fundamentals III)**</a>
 
 
 </details>
