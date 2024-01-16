@@ -1,9 +1,9 @@
 # 🎓 Jeremy Rogers (hullucid)
-**`Current CS Student (Aspiring Developer)`** 
+**`Current CS Student (Aspiring Software Engineer)`** 
 
 📌I am a sophomore undergrad student majoring in **Computer Science**, climbing the ladder of the programming world and all it has to offer. Along the way, what would be most **desirable** is gradually developing a mastery of the skill and getting a hold of every theory and concept that I can grasp. There is a very long journey ahead, but I am hunting for opportunity, connections, and a **community of like-minded people**. Programming has opened yet another path that sparks the **essence of digital creativity** for me, and I would like to see what may become of myself and others innovation.
 <hr style="border:2px solid gray">
-<img src="https://readme-typing-svg.demolab.com/?lines=Developer/Programmer%20in-progress;&font=Fira%20Code&center=true&width=460&height=50&color=ff0000&vCenter=true&pause=1000&size=23" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=SWE%20in-progress;&font=Fira%20Code&center=true&width=460&height=50&color=ff0000&vCenter=true&pause=1000&size=23" /></a>
 </p>
 <hr style="border:2px solid gray">
 <details open> 
